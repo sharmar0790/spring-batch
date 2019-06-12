@@ -1,0 +1,3 @@
+spring/batch/boot/example/services/processor/UserProcessor.class
+spring/batch/boot/example/services/writer/UserWriter.class
+spring/batch/boot/example/services/processor/UserProcessor$1.class
