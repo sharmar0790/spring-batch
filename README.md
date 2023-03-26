@@ -9,5 +9,5 @@
 1) Check out the project.
 2) run command mvn clean install package from command line to build the bundle.
 3) Run the SpringBatchBootExampleApplication.java class.
-4) From browser hit the localhost:9010/testDemo to see whether the service is working or not.
+4) From browser hit the localhost:9010/testDemo to see the service working.
 
